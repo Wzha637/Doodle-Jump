@@ -1,0 +1,26 @@
+.grid {
+ width: 400px;
+ height: 600px;
+ background-color: lightblue;
+ position: relative;
+ text-align: center;
+ font-size: 3rem;
+ color: red;
+ background: url(./background.png) no-repeat fixed;
+}
+
+.doodler {
+ width: 87px;
+ height: 85px;
+ background-color: red;
+ position: absolute;
+ background: url(./doodler-guy.png);
+}
+
+.platform {
+ width: 85px;
+ height: 15px;
+ background-color: green;
+ position: absolute;
+ background: url(./platform.png);
+}
